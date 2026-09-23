@@ -1,0 +1,10 @@
+node_modules/
+client/node_modules/
+client/dist/
+ml/venv/
+.idea/
+.env
+.env.*
+dummy-data/
+*.log
+__pycache__/
